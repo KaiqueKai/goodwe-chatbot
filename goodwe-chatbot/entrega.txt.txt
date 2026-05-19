@@ -1,0 +1,10 @@
+Integrantes:
+
+Kaique Da Silva Assis — RM-572718
+Andre Debiazzi - RM 569062
+Lucas Barros - RM 571528
+Renan Eskildssen RM 571097
+Vinicius Cristal de Oliveira RM 572048
+
+Repositório GitHub:
+https://github.com/KaiqueKai/goodwe-chatbot
